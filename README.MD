@@ -21,3 +21,5 @@
 6. Exclua da tabela Movies o filme "WALL-E".
 
 7. Exclua da tabela Movies todos os filmes dirigidos por "Andrew Staton".
+
+8. Altere a classificação da tabela BoxOffice para 9.0 de todos os filmes que lucraram mais de 400 milhões no mercado interno.
